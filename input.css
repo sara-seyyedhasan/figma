@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: poppins;
+  src: url(./font/Poppins-Regular.ttf);
+}
+@font-face {
+    font-family: manrope;
+    src: url(./font/Manrope-Regular.ttf);
+}
